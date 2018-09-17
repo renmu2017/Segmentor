@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//com/zhanghao/core/lstmNet.py=utf-8
+encoding//com/zhanghao/core/train.py=utf-8
+encoding//com/zhanghao/example/test.py=utf-8
+encoding//com/zhanghao/util/corpus2vector.py=utf-8
+encoding//com/zhanghao/util/data_process.py=utf-8
+encoding//com/zhanghao/util/preprocess.py=utf-8
+encoding//com/zhanghao/util/seqlib.py=utf-8
